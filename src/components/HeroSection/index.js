@@ -18,7 +18,7 @@ const HeroSection = () => {
             </HeroBg>
             <HeroContent>
                 <HeroH1>
-                    Virtual Banking Made Easy
+                    Virtual Banking Made Very Easy 
                 </HeroH1>
                 <HeroP>
                     Sign up for a new account today and recieve $250 in 
